@@ -19,7 +19,7 @@ return <h1>Hello</h1>;
 #### JSX
 
 ```
-<h1 className="title" onClick="">자바스크립트 코드(를 작성 가능하다)
+<h1 className="title" onClick="">자바스크립트 코드(를 작성 가능하다.)
 </h1>
 ```
 
